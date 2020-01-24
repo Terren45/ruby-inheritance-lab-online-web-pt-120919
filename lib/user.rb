@@ -1,2 +1,3 @@
-clas User 
+class User 
 
+end
